@@ -1,0 +1,496 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.div1 h1 {
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.div2 a {
+    padding: 45px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.div2 select {
+    border: none;
+    /* width:90px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 20px;
+    background-color: transparent;
+}
+
+section {
+    background: url(https://media.istockphoto.com/id/1465760198/vector/abstract-blue-background-with-space-for-text.jpg?s=612x612&w=0&k=20&c=fXbSkVB3MdZjkaYUIX-Q7liCtmG5cr6kqAAzX-cM3L8=)no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 710px;
+    margin-top: -130px;
+}
+
+.div2 img {
+    padding: 2px;
+    position: relative;
+    top: 5px;
+    background-color: transparent;
+    left: -2px;
+}
+
+.nav {
+    margin-top: -30px;
+}
+
+.div3 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 40%;
+}
+
+.div3 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+
+.div3 a {
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 12px;
+    border-radius: 60px;
+    gap: 15px;
+
+}
+
+.startups {
+    display: flex;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.ab span {
+    position: relative;
+    top: -18px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.abc span {
+    position: relative;
+    top: -18px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.icons {
+    width: 150%;
+    height: 350px;
+    padding: 45px;
+    /* background-color: coral; */
+}
+
+.div4 p {
+    font-size: 25px;
+    color: green;
+}
+
+.div4 h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 25px;
+}
+
+.parent {
+    display: flex;
+}
+
+.content {
+    /* background-color: lightgreen; */
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div5 {
+    width: 250px;
+    height: 260px;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    background-color: bisque;
+}
+
+.div5 a {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    color: green;
+}
+
+.div6 {
+    margin-top: 15px;
+    display: flex;
+    gap: 30px;
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div7 {
+    background: url(https://media.istockphoto.com/id/1465760198/vector/abstract-blue-background-with-space-for-text.jpg?s=612x612&w=0&k=20&c=fXbSkVB3MdZjkaYUIX-Q7liCtmG5cr6kqAAzX-cM3L8=)no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin-top: -25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div7 input {
+    width: 600px;
+    height: 20px;
+    border-radius: 30px;
+}
+
+.div7 a {
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: yellow;
+}
+
+.div8 {
+    padding: 45px;
+    width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div8 a {
+    text-decoration: none;
+    color: black;
+}
+
+.div8 p {
+    color: brown;
+}
+
+.projects {
+    display: flex;
+    gap: 50px;
+}
+
+.div9 img {
+    margin-top: 35px;
+    padding-left: 30px;
+}
+
+.div10 {
+    text-align: center;
+    background-color: violet;
+    height: 600px;
+    /* width: 100%; */
+}
+
+.team {
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+}
+
+.div10 h3 {
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div10 h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div10 div {
+    padding-top: 10px;
+    color: ;
+}
+
+.div11 {
+    background: url(https://img.freepik.com/premium-vector/dotted-world-map-white-background-vector-illustration_541075-471.jpg)no-repeat;
+    background-size: cover;
+    opacity: 5;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    gap: 10em;
+}
+
+.contact {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    padding-top: 100px;
+    width: 300px;
+}
+
+.div13 {
+    display: flex;
+    gap: 450px;
+}
+
+.div13 input {
+    width: 25em;
+    height: 30px;
+    position: relative;
+    top: 10em;
+}
+
+.div13 [type="message"] {
+    width: 700px;
+    height: 100PX;
+}
+
+.message input {
+    width: 55em;
+    height: 7em;
+}
+
+.side {
+    margin-left: -49em;
+}
+
+.send a {
+    border: 2px solid black;
+    padding: 10px;
+    position: relative;
+    top: 10em;
+    left: 20px;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+.foot {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 95%;
+    height: 100px;
+    background-color: aqua;
+    padding: 25px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact span {
+    position: relative;
+    top: -12px;
+
+}
+
+.footicons {
+    font-size: 30px;
+    padding: 30px;
+    gap: 85px;
+}
+
+@media screen and (max-width:800px) {
+    .div2 img[alt=hlo] {
+        display: none;
+    }
+
+    .div2 a,
+    select {
+        display: none;
+    }
+
+    .div6 {
+        flex-wrap: wrap;
+        /* margin-left:15em; */
+        width: 300px;
+        font-size: 15px;
+        /* height: 50px; */
+    }
+    .parent {
+        flex-wrap: wrap;
+        width: 60vh;
+        padding: 0;
+        margin-left: -35px;
+        gap: 0px;
+    }
+
+    .startups {
+        flex-wrap: wrap;
+        gap: 0px;
+        width: 60vh;
+    }
+    .startups .abc span{
+        font-size:15px;
+    }
+    .startups .ab span{
+        font-size:13px;
+    }
+    .icons .div4 h1{
+        width: 300px;
+    }
+
+
+
+
+    .projects {
+        flex-wrap: wrap;
+
+    }
+
+    .div7 {
+        width: 50vh;
+        height: 25em;
+    }
+
+    .div7 input {
+        width: 15em;
+        flex-wrap: wrap;
+    }
+
+    .foot {
+        position: relative;
+        top: 30em;
+        height: 180px;
+        flex-wrap: wrap;
+    }
+
+    .div13 {
+        flex-wrap: wrap;
+        /* margin-left:30px; */
+        /* width: 5em; */
+        position: relative;
+        left: 70px;
+
+
+    }
+
+    .section {
+        width:500px;
+
+    }
+
+    .team {
+        flex-wrap: wrap;
+        /* height:900px; */
+        /* width:80vh; */
+    }
+
+    .div10 {
+        height: 100em;
+    }
+
+    .div11 {
+        width:450px;
+        gap: 0;
+        flex-wrap: wrap;
+        margin-left:-60px;
+        /* font-size: 35px; */
+    }
+
+    .contact {
+        width:50vh;
+        margin-left:30px;
+
+    }
+
+  
+    .side{
+        position: relative;
+        left:0px;
+        top: 70px;
+        padding: 50px;
+    }
+    .side input{
+        width:280px;
+    }
+    .NE{
+        position: relative;
+        top: -100PX;
+    }
+    .NE [type=message]{
+        width:280px;
+        height:60px;
+
+    }
+    .NE input{
+        width:280px;
+    }
+    .NE a{
+       position: relative;
+       top:300PX;
+
+    }
+
+
+
+
+}
+
+@media screen and (min-width:800px) and (max-width:2580px) {
+    body {
+        justify-content: center;
+    }
+
+    .div2 img[alt=hi] {
+        display: none;
+    }
+
+}
+
+@media screen and (min-width:700px) and (max-width:1080px) {
+    .div3 h1,h3,a{
+        font-size: 25px;
+    }
+   body{
+    margin-left:80px;
+   }
+   .div10{
+    height:70em;
+   }
+   .parent{
+    width:120vh;
+   }
+   .div6{
+    width:120vh;
+   }
+   .div7{
+    width:105vh;
+    height: 250px;
+   }
+   .startups .abc span{
+    font-size:20px;
+}
+.startups .ab span{
+    font-size:20px;
+}
+.icons .div4 h1{
+    width: 600px;
+}
+.div13 div{
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.contact{
+    margin-left:100px;
+    background-size:contain;
+}
+.div11{
+    width: 700px;
+}
+.div13{
+    margin-left: 120px;
+    margin-top: ;
+}
+
+}
